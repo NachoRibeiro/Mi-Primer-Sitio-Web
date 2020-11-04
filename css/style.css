@@ -1,0 +1,35 @@
+#lupa {
+    height: 80px; width: 80px;
+}
+#tgif {
+    height: 100px; width: 100px;
+}
+#text_img {
+    height: 200px; width: 200px;
+}
+.centrado {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.link {
+    font-size: 30px;
+}
+.espacio {
+    margin-bottom: 20px;
+    
+}
+.texto {
+    font-size: 20px;
+}
+.subtitulo {
+    font-size: 50px;
+}
+.pie {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+caption{
+    caption-side: top;
+    font-size: 25px;
+}
